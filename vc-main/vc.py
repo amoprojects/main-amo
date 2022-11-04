@@ -35,9 +35,9 @@ arq = ARQ("https://thearq.tech", ARQ_API_KEY, aiohttpsession)
 
 SESSION = "AgCPaOQAtJ_WIxFkVXg4fkwpv9voD0aQGA93KRPyYSBqsRA3eHY6flalHOJU3lth3kvAfOj_i-kOx8fP56JhH8OYEX1POJeug7v8rqsAVfEmo0a_V_U7bXg8kYE_iqx3GBDcW_OQRM-2MKKEbePzwE-AA"
 
-API_ID = 9398500
+API_ID = 14187630
 
-API_HASH = "ad2977d673006bed6e5007d953301e13"
+API_HASH = "98bcd849f759dcf879e38d7e17948c31"
 
 app = Client(
 
