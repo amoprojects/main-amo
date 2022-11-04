@@ -10,7 +10,7 @@ RUN npm i -g npm
 
 RUN mkdir /app/
 COPY vc-main /app
-WORKDIR /app
+WORKDIR vc-main/app
 
 RUN pip3 install --upgrade pip
 RUN pip3 install -U -r requirements.txt
