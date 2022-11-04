@@ -33,7 +33,7 @@ aiohttpsession = aiohttp.ClientSession()
 
 arq = ARQ("https://thearq.tech", ARQ_API_KEY, aiohttpsession)
 
-SESSION = "AgCPaOQAtJ_WIxFkVXg4fkwpv9voD0aQGA93KRPyYSBqsRA3eHY6flalHOJU3lth3kvAfOj_i-kOx8fP56JhH8OYEX1POJeug7v8rqsAVfEmo0a_V_U7bXg8kYE_iqx3GBDcW_OQRM-2MKKEbePzwE-AA"
+SESSION = "AgDYfG4AMxlGJAqRj6SplyEquAihksIjWCGivvTs72j86tFJ04B5Svz1efywmYypWl-kKzXbALF80M5DxIymllewrzMX-6IcKeQbj1bc2kDjWfat7hOIZ6noExJHFFG5PRaNUZH6ltDDdQJK28tsuMT_mrhFuQFD-9DV-Myf0dIq4qDKVjwf4Q4Z50cyNCHWhqloZgXzLIEDuDXOJ6i_XrLhwOBdSw--pdQ7RlyfMBVZfbpiPRz-aFhKdswzX1URMI6-GXGLjCLIol_PBuXhVLX4tlzPcMOGi3GVTVdEzMH8Tn7L2kik_pPFv19nHyVJJikFhhaS125S2y1eXyw6i5xmTBkuiQAAAAFMLUp_AA"
 
 API_ID = 14187630
 
