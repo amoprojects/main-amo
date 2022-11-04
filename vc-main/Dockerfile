@@ -9,7 +9,7 @@ RUN apt-get install -y nodejs
 RUN npm i -g npm
 
 RUN mkdir /app/
-COPY . /app
+COPY vc-main /app
 WORKDIR /app
 
 RUN pip3 install --upgrade pip
